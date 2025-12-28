@@ -1,0 +1,72 @@
+═══════════════════════════════════════════════════════════
+ECHO REALMS: THE WITNESS — CONTROLS
+═══════════════════════════════════════════════════════════
+
+MOVEMENT
+  W / Up Arrow         - Move up
+  S / Down Arrow       - Move down
+  A / Left Arrow       - Move left
+  D / Right Arrow      - Move right
+
+INTERACTIONS
+  Left Mouse Click     - Select NPC (click them directly)
+  E                    - Witness selected NPC (must be near)
+  G                    - Open Glyph panel
+  D                    - Open Dream panel (Night only)
+  R                    - Open Ritual panel
+  J                    - Open Journal
+  C                    - Open Codex
+
+SYSTEM
+  F5                   - Save game
+  F9                   - Load game
+  ESC                  - Close panels / Clear selection
+  Q                    - Quit game
+
+═══════════════════════════════════════════════════════════
+
+GLYPH PANEL (press G):
+  1                    - Cast Kindle (minor)
+  2                    - Cast Soften (minor)
+  3                    - Cast Anchor (minor)
+  8                    - Cast Veilwalk (major)
+  ESC                  - Close panel
+
+DREAM PANEL (press D, Night only):
+  SPACE                - Seed dream into selected NPC
+  ESC                  - Close panel
+
+RITUAL PANEL (press R):
+  ENTER                - Accept ritual / Listen
+  ESC                  - Close panel
+
+JOURNAL (press J):
+  Up Arrow             - Scroll up
+  Down Arrow           - Scroll down
+  ESC                  - Close panel
+
+CODEX (press C):
+  Up Arrow             - Select previous page
+  Down Arrow           - Select next page
+  Left Mouse Click     - Click page in left column
+  ESC                  - Close panel
+
+═══════════════════════════════════════════════════════════
+
+VISUAL INDICATORS:
+  Green ring           - Selected NPC is in range (press E)
+  Red ring             - Selected NPC is too far (walk closer)
+  Yellow arrow         - Points toward distant selected NPC
+  White ring on NPC    - This NPC has been witnessed today
+  Yellow banner        - Ritual approaching (3-second warning)
+
+TIPS:
+  • Time flows automatically (22 seconds per slice)
+  • Time pauses when any panel is open
+  • NPCs wander slowly near their homes
+  • Atmospheric effects appear based on pulse variables:
+    - Fog when Veil is high
+    - Static when Turbulence is high
+    - Sparkles when Growth is high
+
+═══════════════════════════════════════════════════════════
