@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-saves/
-builds/
-dist/
-*.spec
-.DS_Store

@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# virtual environments
+.venv/
+.env/
+
+# Build output
+dist/
+build/
+*.spec
+builds/
+
+# Local runtime files (keep template, ignore real saves)
+saves/save_echo_realms.json
+saves/journal.txt

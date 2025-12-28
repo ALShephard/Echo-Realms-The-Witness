@@ -1,0 +1,5 @@
+{
+  "meta": {
+    "note": "Template save file. The game writes to saves/save_echo_realms.json at runtime."
+  }
+}
